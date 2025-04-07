@@ -10,6 +10,19 @@ Ce projet permet à un utilisateur de poster des messages anonymes à destinatio
 - `mysql`, `redis`, `rabbitmq`, `worker` : services de base
 - Interface HTML/CSS/JS : pour poster et lire les messages
 
+## 📥 Cloner le projet depuis GitHub
+
+Vous pouvez cloner ce projet directement depuis le dépôt Git :
+
+```bash
+git clone https://github.com/Unluckii9/anonyme_feedback.git
+cd anonyme_feedback
+```
+
+> Assurez-vous d’avoir Docker et Make installés sur votre machine pour exécuter le projet.
+
+---
+
 ## 🚀 Lancer le projet
 
 ```bash
